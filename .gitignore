@@ -1,0 +1,6 @@
+.local/
+profile.json
+leads.csv
+*.sqlite*
+__pycache__/
+*.pyc
